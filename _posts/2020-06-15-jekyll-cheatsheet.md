@@ -3,7 +3,7 @@ layout: post
 title: "Jekyll cheatsheet"
 ---
 
-<img src="{{https://github.com/yuzou-art/yuzou-art.github.io}}/assets/Toby.jpg" alt="Toby" style="zoom:20%;" />
+<img src="{{https://github.com/yuzou-art/yuzou-art.github.io}}/assets/Toby.jpg" alt="Toby" style="zoom:10%;" align="center" />
 
 
 
